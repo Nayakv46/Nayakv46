@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi ![waving-hand](https://github.com/Nayakv46/Nayakv46/assets/130490621/8699ec46-f704-4d96-a060-c919aadb8577) my name is Bartek Janiak
+
+## I'm a Front-End Developer from Poland.
+
 
 <!--
 **Nayakv46/Nayakv46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
