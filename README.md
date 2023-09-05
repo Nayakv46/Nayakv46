@@ -7,7 +7,7 @@ I'm a Front-End Developer from Poland.
 
 ## Socials
 <div id="badges">
-  <a href="www.linkedin.com/in/bartosz-janiak-dev" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/bartosz-janiak-dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
