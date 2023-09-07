@@ -3,7 +3,9 @@
 I'm a Front-End Developer from Poland.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,php,mysql,c)](https://skillicons.dev)
+
+And I'm currently learning TypeScript!
 
 ## Socials
 <div id="badges">
