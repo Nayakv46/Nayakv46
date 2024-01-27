@@ -3,7 +3,7 @@
 I'm a Front-End Developer from Poland.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,react,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,svelte,jquery,python,mysql)](https://skillicons.dev)
 
 ## Socials
 <div id="badges">
